@@ -1,0 +1,14 @@
+body{
+    background-color: #BAB2A2;
+}
+h1:hover{
+    color: red;
+}
+.title:hover{
+    color: red;
+}
+.input{
+    color: red;
+}
+
+
